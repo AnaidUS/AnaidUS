@@ -8,10 +8,10 @@ Manejo **JavaScript, CSS, HTML**
 
 ### Sobre mí:
 
-* Nací y crecí en *México, Ciudad de México* y hace unos años me mudé a Perú. 
-<br>
+* Nací y crecí en *México, Ciudad de México*, y hace unos años me mudé a Perú. 
+
 * Soy licenciada en economía, graduada de la UNAM, una de las mejores universidades a nivel mundial, y la más grande de America Látina.
-<br>
+
 * Llevo desde diciembre 2022 estudiando en Alura Latam, programa ONE de **Oracle**.
 
 --------------------------------------------------------------------------------------------
@@ -32,4 +32,3 @@ Manejo **JavaScript, CSS, HTML**
 - 👯 Me gustaría colaborar en trabajos donde pueda ganar experiencia.
 - ⚡ Mis hobbies son: leer, escribir novelas, jugar a videojuegos, jardinería y todo lo que implique crear algo. 
 - :blush: Me gusta la puntualidad, amo los retos constructivos, soy sincera y proactiva.
--->
