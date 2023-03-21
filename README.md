@@ -19,10 +19,10 @@ Manejo **JavaScript, CSS, HTML**
 ### Tabla de habilidades
 
 | Habilidades | Nivel de habilidades |
------------------------------------
-| HTML       | Básico | <br>
-| CSS        | Aprendiz | <br>
-| JavaScript | Aprendiz | <br>
+|-------------|----------------------|
+| HTML        | Básico               |
+| CSS         | Aprendiz             |
+| JavaScript  | Aprendiz             |
 
 :tent:
 
