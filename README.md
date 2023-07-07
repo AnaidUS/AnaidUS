@@ -12,7 +12,11 @@ Manejo **JavaScript, CSS, HTML**
 
 * Soy licenciada en economía, graduada de la UNAM, una de las mejores universidades a nivel mundial, y la más grande de America Látina.
 
-* Llevo desde diciembre 2022 estudiando en Alura Latam, programa ONE de **Oracle**.
+* Estudié desde Diciembre 2022 hasta Junio 2023 en Alura Latam, programa ONE de **Oracle** HTML, CSS y JavaScript
+
+* He iniciado un curso para obtener una certificación en Oracle Cloud Infrastructure Foundations en el mes de Julio 2023
+  
+* Una vez termine estudiaré Python y SQL con MySQL en la plataforma de Alura LATAM
 
 --------------------------------------------------------------------------------------------
 
@@ -20,15 +24,15 @@ Manejo **JavaScript, CSS, HTML**
 
 | Habilidades | Nivel de habilidades |
 |-------------|----------------------|
-| HTML        | Básico               |
-| CSS         | Aprendiz             |
-| JavaScript  | Aprendiz             |
+| HTML        | Intermedio           |
+| CSS         | Intermedio           |
+| JavaScript  | Básico               |
 
 :tent:
 
 --------------------------------------------------------
 
 - 🌱 Manejo nivel básico de inglés, un poco de alemán y un poco de sueco
-- 👯 Me gustaría colaborar en trabajos donde pueda ganar experiencia.
+- 👯 Me gustaría colaborar en proyectos donde pueda ganar experiencia.
 - ⚡ Mis hobbies son: leer, escribir novelas, jugar a videojuegos, jardinería y todo lo que implique crear algo. 
 - :blush: Me gusta la puntualidad, amo los retos constructivos, soy sincera y proactiva.
